@@ -319,6 +319,7 @@ window.addEventListener('keyup', (event) => {
         case 'd':
             keys.d.pressed = false
             break
+            // I fixed the bug
         case 'a':
             keys.a.pressed = false
             break
